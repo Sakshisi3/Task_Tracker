@@ -6,6 +6,18 @@ This app allows users to create tasks, update their status, and manage multiple 
 
 ---
 
+## 🌐 Live Demo
+
+- Frontend: [https://your-frontend.vercel.app](https://your-frontend.vercel.app)
+- Backend API: [https://task-tracker-ttj6.onrender.com](https://task-tracker-ttj6.onrender.com)
+
+## 🚀 Tech Stack
+
+- **Frontend:** React.js, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB Atlas
+- **Auth:** JWT
+
 ## 🧩 Folder Structure
 
 - `backend/`: Contains the Node.js and Express API to handle the business logic and data.
