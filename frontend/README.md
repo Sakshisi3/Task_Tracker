@@ -8,7 +8,7 @@ This app allows users to create tasks, update their status, and manage multiple 
 
 ## 🌐 Live Demo
 
-- Frontend: [https://your-frontend.vercel.app](https://your-frontend.vercel.app)
+- Frontend: [task-tracker-ln8p24h7s-sakshisi3s-projects.vercel.app](task-tracker-ln8p24h7s-sakshisi3s-projects.vercel.app)
 - Backend API: [https://task-tracker-ttj6.onrender.com](https://task-tracker-ttj6.onrender.com)
 
 ## 🚀 Tech Stack
